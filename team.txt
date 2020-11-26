@@ -1,0 +1,49 @@
+2
+Case McCarthy
+D
+Sophomore
+----
+3
+Ty Amonte
+F
+Redshirt Junior
+----
+4
+David Farrance
+D
+Senior
+----
+7
+Alex Vlasic
+D
+Sophomore
+----
+8
+Cade Webber
+D
+Freshman
+----
+9
+Logan Cockerill
+F
+Senior
+----
+10
+Nick Zabaneh
+F
+Freshman
+----
+11
+Luke Tuch
+F
+Freshman
+----
+12
+Jamie Armstrong
+F
+Sophomore
+----
+13
+Dylan Peterson
+F
+Freshman
